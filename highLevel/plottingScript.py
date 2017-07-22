@@ -2,6 +2,8 @@
 #ideally, this will feed into the ability
 #to make a scrolling plot
 
+
+#modified from: https://stackoverflow.com/questions/11874767/real-time-plotting-in-while-loop-with-matplotlib
 import numpy as np
 import matplotlib.pyplot as plt
 
